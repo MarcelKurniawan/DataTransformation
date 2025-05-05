@@ -87,7 +87,7 @@ def get_table_download_link(df):
 
 # Streamlit app
 def main():
-    st.title("Data Transformer")
+    st.title("Data Transform")
     st.markdown("""
     This app transforms data into a more usable format.
     Upload your CSV file below and click the Transform button.
